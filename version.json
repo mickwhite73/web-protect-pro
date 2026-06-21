@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/mickwhite73/web-protect-pro/releases/download/v1.0.0/WebStudio.Package_1.0.0.0_x64.msix",
-  "notes": "Initial Web Protect Pro release."
+  "version": "1.0.11.0",
+  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/download/v1.0.11.0/WebStudio.Package_1.0.11.0_x64.msix",
+  "notes": "Web Protect Pro v1.0.11.0 is the first signed company-certificate release. It includes SSL.com code signing, corrected publisher identity, Page Cycle right-click Quick URL selection, Compatibility right-click list management, guide wording polish, and launch-readiness updates."
 }
